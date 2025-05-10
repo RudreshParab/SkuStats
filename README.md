@@ -22,3 +22,11 @@ Things you may want to cover:
 * Deployment instructions
 
 * ...
+
+This application is mainly use for handling the orders. Use for logistics integration platform.
+
+Ruby version: 3.3.7
+
+Rails version: 7.2.0
+
+database configuration: PostgreSQL
